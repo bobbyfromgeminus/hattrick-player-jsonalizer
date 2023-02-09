@@ -87,6 +87,11 @@ main {
     color: var(--green-light);
 }
 
+.card .head a {
+    color: white;
+    text-decoration: none;
+}
+
 .card .body {
     width: 100%;
     padding: .5rem 1rem;
